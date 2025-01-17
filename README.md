@@ -1,0 +1,2 @@
+# Corta.TranslationRU
+Localization RU
